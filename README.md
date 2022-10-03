@@ -9,7 +9,7 @@
   <a href="https://t.me/ArchyBaldion">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegramm Badge"/>
   </a>
-  <a href="mailto:Artem@mail.ru">
+  <a href="mailto:xyarce@mail.ru">
     <img src="https://img.shields.io/badge/Mail.ru-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
   </a>
   </div>
