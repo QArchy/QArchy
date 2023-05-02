@@ -50,6 +50,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=QArchy&show_icons=true&theme=radical" />
 </div>
 
+#
+#
 
 <div id="stats_2" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QArchy" />
