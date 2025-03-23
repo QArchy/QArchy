@@ -38,7 +38,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjT52SU4JLA261AF3W38dWHiNt70NHiKOmA&s" title="Verilog" alt="Verilog" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjT52SU4JLA261AF3W38dWHiNt70NHiKOmA&s" title="Verilog" alt="V" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv6eHG7I5VjL2uhnqJMys6PvwhGRw0hy7GYg&s" title="SystemVerilog" alt="SV" width="80" height="40"/>&nbsp;
+  
 </div>
 
 ### :fire: My Stats :
