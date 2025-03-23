@@ -39,8 +39,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjT52SU4JLA261AF3W38dWHiNt70NHiKOmA&s" title="Verilog" alt="V" width="40" height="40"/>&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv6eHG7I5VjL2uhnqJMys6PvwhGRw0hy7GYg&s" title="SystemVerilog" alt="SV" width="80" height="40"/>&nbsp;
-  
+  <img src="https://raw.githubusercontent.com/file-icons/source/master/svg/SystemVerilog.svg?sanitize=true" title="SystemVerilog" alt="SV" width="80" height="40"/>&nbsp;
+  <img src="https://www.veripool.org/img/verilator_256_200_min.png" title="Verilator" alt="Verilator" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeOhy7k_VLgY4J5B4nVgmtzBHmlXNQa2K3tw&s" title="Vivado" alt="Vivado" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeu-9PrYuPcZZFGj9kNNnMwja5aZO3xEDT0A&s" title="Quartus" alt="Quartus" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRc9On45PV3Hew-y_1bQRiUKkLGtt3cBaU0Q&s" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
