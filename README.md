@@ -55,5 +55,5 @@
 #
 
 <div id="stats_2" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QArchy" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QArchy" width="600" height="300"/>
 </div>
