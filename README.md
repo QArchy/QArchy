@@ -48,7 +48,7 @@
 
 ### :fire: My Stats :
 <div id="stats_1" align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QArchy&show_icons=true&theme=radical)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QArchy)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 #
