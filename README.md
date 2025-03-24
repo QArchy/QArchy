@@ -48,7 +48,8 @@
 
 ### :fire: My Stats :
 <div id="stats_1" align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QArchy)](https://github.com/QArchy/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=QArchy" width="600" height="300"/>
+  [![Anurag's GitHub stats]()](https://github.com/QArchy/github-readme-stats)
 </div>
 
 #
