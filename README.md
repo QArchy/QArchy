@@ -50,7 +50,7 @@
 <div id="stats_1" align="center">
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QArchy)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QArchy)](https://github.com/anuraghazra/github-readme-stats)
 #
 
 <div id="stats_2" align="center">
